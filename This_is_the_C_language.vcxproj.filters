@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch10_challenge_10.3.c">
+    <ClCompile Include="..\..\..\Desktop\도전실전예제소스\11장_문자_실전예제_3번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

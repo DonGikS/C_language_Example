@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch10_challenge_10.3.c" />
+    <ClCompile Include="..\..\..\Desktop\도전실전예제소스\11장_문자_실전예제_3번.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
