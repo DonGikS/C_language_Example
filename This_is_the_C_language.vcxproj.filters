@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch9_challenge_9.3.c">
+    <ClCompile Include="ch10_challenge_10.3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
